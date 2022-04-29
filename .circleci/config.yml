@@ -26,7 +26,7 @@ version: 2.1
 #      - say-hello
 
 orbs:
-  maven: circleci/maven@4.0.0
+  maven: circleci/maven@1.2.0
 
 workflows:
   maven_test:
